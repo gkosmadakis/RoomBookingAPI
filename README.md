@@ -16,4 +16,7 @@ To test it you can use Postman or similar application.
  "timeTo":"11:00"
 }
 3. To delete a room booking http://localhost:8080/api/bookings/{id}
-4. Also there are Junit test and E2E Tests that you can run
+
+Also there are Junit test and E2E Tests that you can run 
+
+Swagger documentation: http://localhost:8080/swagger-ui/index.html
